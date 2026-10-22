@@ -1,0 +1,4 @@
+salidas_agua/*.csv
+*.tif
+.ipynb_checkpoints/
+__pycache__/

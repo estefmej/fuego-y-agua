@@ -1,0 +1,10 @@
+pystac-client
+planetary-computer
+odc-stac
+rasterio
+geopandas
+matplotlib
+pandas
+numpy
+requests
+jupyterlab
